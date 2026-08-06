@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>医療DX週次ブリーフィング</title>
+  <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
+  <description>医療DX・糖尿病デジタルヘルス領域の週次ニュース解説（自動生成による対話形式音声）。個人利用の限定公開フィード。</description>
+  <language>ja</language>
+  <lastBuildDate>Thu, 06 Aug 2026 16:56:57 +0900</lastBuildDate>
+  <atom:link href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/podcast.xml" rel="self" type="application/rss+xml"/>
+  <image>
+    <url>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png</url>
+    <title>医療DX週次ブリーフィング</title>
+    <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
+  </image>
+  <itunes:image href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png"/>
+  <itunes:author>医療DX週次ブリーフィング</itunes:author>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>Yes</itunes:block>
+  <itunes:category text="Health &amp; Fitness"/>
+  <item>
+    <title>Run #15（2026-08-09）</title>
+    <guid isPermaLink="false">dxweekly-2026-08-09</guid>
+    <pubDate>Sun, 02 Aug 2026 02:27:34 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-08-09_dialogue_full.mp3" length="5612198" type="audio/mpeg"/>
+    <itunes:episode>15</itunes:episode>
+    <itunes:subtitle>Run #15はFDA DTx最終規則発効と生成AI糖尿病アプリの初事例が同時到来した規制確定週</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-08-09（Run #15）音声インデックス<br/>
+=====================================================<br/>
+<br/>
+【全体要約】<br/>
+Run #15はFDA DTx最終規則発効と生成AI糖尿病アプリの初事例が同時到来した規制確定週。<br/>
+新規16件（うち規制系9件）、累計294件。国内はAMED令和7年度採択、福島医大予測ナビ全国広報、<br/>
+PMDA SaMD相談枠拡大、厚労省告示改正の4本柱。<br/>
+<br/>
+【方針】<br/>
+規制の枠組み確定週として、FDA DTxクラスII分類最終規則、UpDoc生成AIクリアランスを軸に、<br/>
+国内AMED・福島医大の研究フェーズ動向を厚く扱い、CGM周辺・海外産業動向で締める6章構成。<br/>
+目標17分、実尺約10分5秒（TTS切り詰めの影響あり）。<br/>
+<br/>
+【章目次】<br/>
+第1章：オープニング／今週のハイライト概観<br/>
+第2章：FDA最終規則 Diabetes Digital Behavioral Therapeutic Device Class II分類確定＋PMDA相談枠拡大<br/>
+第3章：UpDoc生成AI糖尿病アプリFDAクリアランス＋Welldoc CGM予測＋Innolitics Q2レポート<br/>
+第4章：AMED令和7年度採択（京大井上教授RWD×GLP-1RA／滋医大辻准教授GDM）＋福島医大予測ナビ全国広報<br/>
+第5章：Novo Nordisk PIONEER TEENS follow_up＋Signos OTC CGM baseline＋CGM市場動向<br/>
+第6章：総括／N-ISM_FLI・DiaCare_SaMD・SyncHealth_DM_Studyへの含意／次回Run #16予告]]></description>
+  </item>
+  <item>
+    <title>2026-08-02 回</title>
+    <guid isPermaLink="false">dxweekly-2026-08-02</guid>
+    <pubDate>Sun, 26 Jul 2026 02:21:46 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-08-02_dialogue_full.mp3" length="7913451" type="audio/mpeg"/>
+    <itunes:subtitle>今週の中核は中医協7月22日総会での医療機器C1新規4製品保険適用了承、なかでもクオリプス社iPS由来心筋シート「リハート」の5320万円9月1日収載である</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-08-02 音声インデックス<br/>
+==============================================<br/>
+<br/>
+全体長: 約12分27秒（8章構成）<br/>
+方針: 会話形式（kore=ホスト／charon=アナリスト）、規制主導のデジタルヘルス市場設計をテーマに整理<br/>
+<br/>
+【全体要約】<br/>
+今週の中核は中医協7月22日総会での医療機器C1新規4製品保険適用了承、なかでもクオリプス社iPS由来心筋シート「リハート」の5320万円9月1日収載である。FDAデジタルヘルスCoE直下のTEMPO Pilot初参加者にDexcomが選定され、CGM+AI駆動介入型プログラムの規制モデル雛形が始動した。同週FDAは非侵襲血糖測定スマートウォッチ/リング警告も発出。★シンクヘルスは8か月続いた本体プレス沈黙状態から、台湾エキスポ露出（国内56万人ユーザー・健保50社超）という形で復活しdormant解除。Abbott Lingo/Libre Rio 2製品OTC CGMクリアランスで消費者CGM市場が多社化。Dexcom G7とAbbott FreeStyle Libre 3双方に集団訴訟提起。国内ではAMED中釜理事長会見で前年度成果（企業導出158件・治験等111件・薬事承認31件）報告、リジェネフローAlport症候群iPS採択。予測モデルはPolyU PIPE-AI（アジア人56万人・CKD予測87.1%）とCedars-Sinai LSTM低血糖予測モデルがnpj Digital Medicineに発表。新規26件・累計278件。<br/>
+<br/>
+【方針・トーン】<br/>
+- 会話形式2話者（kore=ホスト、charon=アナリスト）<br/>
+- PMID/DOIは音声化しない（本文中に別途記載）<br/>
+- 略語はかな化：ソフトウェア医療機器（SaMD）、シージーエム（CGM）、エーアイディー（AID）、あいピーエス（iPS）、あーい（AI）、エーメド（AMED）、エヌピージェイ（npj）等<br/>
+- 濃度優先：目標20分に対し実尺12分27秒。水増しせず情報密度を優先<br/>
+<br/>
+【章一覧】<br/>
+第1章 オープニング＆ヘッドライン（約53秒）<br/>
+第2章 中医協と国内規制（約1分25秒）<br/>
+第3章 FDAデジタルヘルス施策：TEMPO Pilot＆スマートウォッチ警告（約1分44秒）<br/>
+第4章 消費者CGM市場：Abbott OTC・集団訴訟・AID周辺（約1分37秒）<br/>
+第5章 シンクヘルス台湾エキスポ復活・dormant解除（約1分22秒）<br/>
+第6章 T1D先進治療：Tzield UAE・Vertex zimislecel・Retimark（約1分16秒）<br/>
+第7章 AI予測モデル（PolyU/Cedars-Sinai）＆AMED国内研究フェーズ（約1分50秒）<br/>
+第8章 総括・研究者向け含意・次週予告（約2分16秒）<br/>
+<br/>
+【関連ファイル】<br/>
+- 2026-08-02_dialogue_full.mp3（結合済み全編）<br/>
+- 2026-08-02_chapterNN.mp3（各章単体、01-08）<br/>
+- 2026-08-02_chapters.zip（章別MP3のアーカイブ）<br/>
+- 医療DX朝ブリーフィング_20260802_参考_apps_and_DTx.csv（278行）<br/>
+- 医療DX朝ブリーフィング_20260802_参考_duplicate_review.md]]></description>
+  </item>
+  <item>
+    <title>Run #13（2026-07-26）</title>
+    <guid isPermaLink="false">dxweekly-2026-07-26</guid>
+    <pubDate>Sun, 19 Jul 2026 02:33:29 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-07-26_dialogue_full.mp3" length="11773841" type="audio/mpeg"/>
+    <itunes:episode>13</itunes:episode>
+    <itunes:subtitle>今週は規制ラッシュ週</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-07-26 音声版目次<br/>
+<br/>
+【全体要約】<br/>
+今週は規制ラッシュ週。国内はPMDA SaMD優先審査試行的実施掲載（7/6）、厚労省医療情報安全管理GL7.0版発出（6/29）、中医協7/8再生医療等製品2品目収載了承。海外はSenseonics Eversense 365 FDAクリアランス（世界初1年植込型CGM、7/18）、Dexcom G7・Abbott CGMリーダー・MiniMed 780G・Beta Bionics iLet 同時多発リコール、MiniMed 780G+Instinct/DBLG2-Kaleido欧州上市。疾患修飾療法ではFDA Tzield小児Stage 3加速承認（6/12）＋NICE TA1176（7/9）。予防・PHRではNoom GLP-1 Companion無料化＋Novo提携、CMS Medicare GLP-1 Bridge開始。国内研究フェーズではInnojinシリーズC 9.5億円、ExaMD TRACK-BC ASCO 2026、AMED 16課題採択＋革新的医療技術6次公募、elecoglipron国内P3開始。新規22件・累計252件。シンクヘルス8か月連続沈黙。<br/>
+<br/>
+【方針】<br/>
+target 25分・実際18分47秒（薄めの規制解説抑制で受容）、10章構成、会話形式（kore=ホスト佐藤、charon=アナリスト北澤）。PMID/DOI・URLは音声から除外。SaMD・GLP-1・AI-DPP・TRACK-BC等の略語は日本語パラフレーズ併記。<br/>
+<br/>
+【章目次】<br/>
+01. オープニング＆今週の骨格 (2分15秒)<br/>
+02. 国内DX・規制・政策 (3分08秒)<br/>
+03. 予防・行動変容・PHR＋シンクヘルス (2分25秒)<br/>
+04. 持続血糖測定器（Eversense 365・リコール群） (1分50秒)<br/>
+05. インスリンポンプ・自動インスリン注入システム (1分38秒)<br/>
+06. 一型糖尿病疾患修飾療法（Tzield・NICE TA1176） (2分12秒)<br/>
+07. アルゴリズム・AI・データ (1分26秒)<br/>
+08. 国内研究フェーズ（Innojin・ExaMD・AMED・elecoglipron） (2分04秒)<br/>
+09. 止まっているプロジェクト（シンクヘルス・ブリオベリー） (34秒)<br/>
+10. 研究・実装上の示唆と次週見通し (1分16秒)<br/>
+<br/>
+合計: 18分47秒<br/>
+生成日時: 2026-07-19T02:30 JST（Run #13）]]></description>
+  </item>
+  <item>
+    <title>2026-07-19 回</title>
+    <guid isPermaLink="false">dxweekly-2026-07-19</guid>
+    <pubDate>Sun, 12 Jul 2026 02:40:51 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-07-19_dialogue_full.mp3" length="7539909" type="audio/mpeg"/>
+    <itunes:subtitle>今週の主役は国内SaMD規制の枠組み更新とAI-SaMD承認ラッシュ</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-07-19（音声版）目次<br/>
+<br/>
+【全体要約】<br/>
+今週の主役は国内SaMD規制の枠組み更新とAI-SaMD承認ラッシュ。PMDAはSaMD審査ガイダンス改訂を6/5適用（AI/ML継続学習・サイバーセキュリティ・クラス判定を再整理）、AI内視鏡Q&amp;A Rev.2026-07を7/6公開（Class II単位のスタンドアロン化とOTA申請粒度の明文化）。中医協は7/8総会で新医薬品2成分3品目薬価収載了承（7/15収載）＋薬価調査案了承（2027改定へ）。デジタル庁・厚労省は7/7に医療DXダッシュボード公開（電子処方箋・マイナ保険証・電子カルテ普及率）。糖尿病×循環器ステートメントは日循環器学会・JDSにより6/11 6年ぶり改訂、DASI（Duke Activity Status Index）追加。CGM・AIDではTandem Control-IQ+のT1D妊娠適応FDA承認（4月、CIRCUIT試験TIR+3hr/day）＋CE Mark T2D+T1D妊娠適応（6/5）、Dexcom Stelo小児OTC FDA（6/12、世界初2歳以上）、Sanofi Tzield小児Stage 3 T1D適応拡大（6/15）、Insulet Omnipod 5+Discoverスペインローンチ（7/6）、Beta Bionics iLet Class 2リコール（6/18）。AI診断SaMDではiHealthScreen iPredict-DR FDA 510(k) K253704（7/9）、Aeye-DS FDA（Optomed Aurora連携＋CPT 92229償還）、Signos AI+Stelo、UpDoc（K253281、患者向けLLM SaMD）$18Mシード＋Cleveland/Allegheny/UCSF実装、Twin Health $140M。国内研究フェーズではExaMD臨床開発開始（6/30）、サスメド×杏林マイル達成（6/15）、サスメド×Heartseed第1症例投与（6/12）、AMED令和8年度スマートバイオ創薬採択（6/1）。四半期棚卸し第3週=Ⅲ+Ⅳ完了。シンクヘルス本体プレスは7か月連続沈黙継続。<br/>
+<br/>
+【方針】<br/>
+規制系新規10件＋GL改訂1件＋新規計24件と規制ラッシュ週のため25分想定。実測約12分59秒（今回はTTS応答が短縮化気味）。8章構成。会話形式（kore=ホスト、charon=アナリスト）。PMID/DOI・音声メタ説明は読み上げ除外、聞き取りにくい略語（SaMD、CGM、AID、TIR、DASI、OTA、LLM、GLP-1、DR、Stage 3、Class II等）は日本語パラフレーズを併記。<br/>
+<br/>
+【章目次】<br/>
+第1章｜オープニング｜規制枠組みとAI-SaMD承認ラッシュの並行進行（1分27秒）<br/>
+第2章｜PMDA SaMDガイダンス改訂＋AI内視鏡Q&amp;A＋医療DXダッシュボード＋中医協7/8（1分40秒）<br/>
+第3章｜糖尿病×循環器ステートメント6年ぶり改訂とDASI導入（1分23秒）<br/>
+第4章｜Tandem Control-IQ+ T1D妊娠適応＋CE Mark T2D＋Insulet Spain＋iLetリコール（1分20秒）<br/>
+第5章｜Dexcom Stelo小児OTC＋Sanofi Tzield小児Stage 3（1分3秒）<br/>
+第6章｜iPredict-DR／Aeye-DS／Signos／UpDoc／Twin Health AI-SaMD承認ラッシュ（1分54秒）<br/>
+第7章｜エクサウィザーズ ExaMD／サスメド×杏林・Heartseed／AMED令和8年度（1分42秒）<br/>
+第8章｜シンクヘルスdormant＋今週の総括（2分31秒）<br/>
+<br/>
+合計 約12分59秒]]></description>
+  </item>
+  <item>
+    <title>2026-07-12 回</title>
+    <guid isPermaLink="false">dxweekly-2026-07-12</guid>
+    <pubDate>Sun, 05 Jul 2026 19:10:08 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-07-12_dialogue_full.mp3" length="7316594" type="audio/mpeg"/>
+    <itunes:subtitle>今週の主役は米国肥満薬の公的アクセス初開放</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-07-12（音声版）目次<br/>
+<br/>
+【全体要約】<br/>
+今週の主役は米国肥満薬の公的アクセス初開放。Medicare GLP-1 Bridge Programが7月1日に開始し、Form Healthがその日から処方を開始。国内ではアイラト RatoAIが国内スタートアップ初のPMDAクラスⅢプログラム医療機器承認を取得。厚労省はSaMD優先審査試行実施通知、そしてマンジャロ等GLP-1適正使用通知を同時期に発出。CGM側ではDexcom Smart Basal（G7 15日＋glargine基礎インスリン滴定AI）がFDA 510(k) clearanceを取得し、MiniMed Flex小型AIDが米国上市。AI/データではSamsung Medical Centerが韓国NHIS T1D 17,018例＋小児3,765例大規模疫学を公表しCGM群でDKA 60%↓・ESRD 57%↓・CVD 72%↓・全死亡62%↓と報告。AMEDは2026年度第2回配分99.3億円を決定。シンクヘルス本体プレスは6か月連続沈黙継続。四半期棚卸し第2週=Ⅱ完了。<br/>
+<br/>
+【方針】<br/>
+規制系新規5件・新規計11件と規制ラッシュ週のため25分想定。実測約12分15秒。8章構成。会話形式（kore=ホスト、charon=アナリスト）。PMID/DOI・音声メタ説明は読み上げ除外、聞き取りにくい略語（GLP-1、SaMD、CGM、AID、DKA、ESRD、CVD等）は日本語パラフレーズを適宜併記。<br/>
+<br/>
+【章目次】<br/>
+第1章｜オープニング｜公的アクセスと統合デバイスの実装フェーズ（1分31秒）<br/>
+第2章｜Medicare GLP-1 Bridge Program 7月1日始動（1分43秒）<br/>
+第3章｜アイラト RatoAI クラスⅢ承認と厚労省優先審査試行実施（1分49秒）<br/>
+第4章｜Dexcom Smart Basal と MiniMed Flex 米国上市（1分17秒）<br/>
+第5章｜Samsung Medical Center 韓国NHIS CGM大規模疫学（1分19秒）<br/>
+第6章｜厚労省GLP-1適正使用通知と中医協6月24日総会（1分24秒）<br/>
+第7章｜AMED 2026年度第2回配分と四半期棚卸し第2週（1分12秒）<br/>
+第8章｜シンクヘルスdormantと今週の総括（1分59秒）<br/>
+<br/>
+合計 約12分15秒]]></description>
+  </item>
+  <item>
+    <title>Run #10（2026-07-05）</title>
+    <guid isPermaLink="false">dxweekly-2026-07-05</guid>
+    <pubDate>Sun, 05 Jul 2026 02:25:43 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-07-05_dialogue_full.mp3" length="6887336" type="audio/mpeg"/>
+    <itunes:episode>10</itunes:episode>
+    <itunes:subtitle>規制系と国内SaMD実装の同時多発週</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-07-05 音声版<br/>
+========================================<br/>
+<br/>
+【全体要約】<br/>
+規制系と国内SaMD実装の同時多発週。PMDA AI CTファストトラック開始（6/28、120→45 working days）、令和8年度診療報酬改定でSaMD管理料78点新設＋CureApp AUD算定対象化、CureApp HT→「CureApp 血圧」rebrand＋シームレスUPD、エクサウィザーズ ExaMD 在宅型認知症AI SaMD 臨床開発開始（革新的プログラム医療機器指定制度）、Modular Medical Pivot Insulin Pump 米国launch、Virta Unified GLP-1、UpDoc K253281詳細開示、京大T1D抗体スクリーニング治験稼働。累計186件（+13件、規制系6件）。シンクヘルス本体プレス5か月連続沈黙。<br/>
+<br/>
+【編集方針】<br/>
+統合プロンプト初回運用。会話形式（kore=ホスト、charon=アナリスト）、8章構成、PMID/DOI除去、聞き取りにくい略語は日本語パラフレーズ併記（PBM=Pharmacy Benefit Manager、AUD=飲酒量低減など）。<br/>
+<br/>
+【章目次】<br/>
+第1章：オープニング｜規制と実装の同時多発週<br/>
+第2章：PMDA AI CTファストトラック開始<br/>
+第3章：令和8年度診療報酬改定とCureApp血圧<br/>
+第4章：エクサウィザーズExaMDと革新的プログラム医療機器指定<br/>
+第5章：Modular Medical PivotとCGM長期化<br/>
+第6章：Virta Unified GLP-1とDTxの薬剤アクセスハブ化<br/>
+第7章：UpDoc K253281詳細と京大T1D治験<br/>
+第8章：カバレッジ自己採点と先生のプロジェクトへの含意<br/>
+<br/>
+【尺】約11.3分（8章合計）<br/>
+【生成日】2026-07-05 02:00 JST（Run #10）]]></description>
+  </item>
+  <item>
+    <title>2026-06-27 回</title>
+    <guid isPermaLink="false">dxweekly-2026-06-27</guid>
+    <pubDate>Sun, 28 Jun 2026 04:18:17 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-06-27_dialogue_full.mp3" length="16445483" type="audio/mpeg"/>
+    <description><![CDATA[2026-06-27 医療DX朝ブリーフィング 会話形式音声 章目次<br/>
+<br/>
+全体要約：患者向けLLM/agentic SaMD、Dexcom Smart Basal、厚労省革新的SaMD優先審査、Omnipodリコール、CGM/AID更新、PREP-T1D、徳島大学病院の細胞治療、シンクヘルス周辺を整理。<br/>
+注：音声ではPMID/DOIなどの識別番号は読み上げ対象外。企業発表段階、規制・安全性情報、学会発表、査読論文、国内研究フェーズを区別。<br/>
+<br/>
+01. 今週の全体像：患者向けLLM SaMDとCGM滴定統合<br/>
+    新規20件、規制系7件以上。患者向けLLM/agentic SaMD、Dexcom Smart Basal、厚労省SaMD優先審査が中心。<br/>
+02. UpDoc FDA Clearance：患者向けLLM/agentic SaMD<br/>
+    T2D血糖管理で患者向けLLM/agentic SaMDがFDAクリアランス。自律的助言の安全境界が重要。<br/>
+03. Dexcom Smart Basal：CGMと基礎インスリン滴定の統合<br/>
+    Dexcom Smart BasalのFDA Clearanceは、CGMデータをglargine U-100の滴定支援へつなぐ重要な規制系更新。<br/>
+04. 国内規制：革新的SaMD優先審査と2028年度診療報酬<br/>
+    厚労省の革新的SaMD優先審査試行、IDATEN連携、2028年度診療報酬調査枠組みが国内実装の論点。<br/>
+05. CGM・AID安全性：Omnipodリコールと次世代デバイス<br/>
+    Omnipod Podsの大規模リコール、Dexcom G7 15 Day、Libre Duo、MiniMed、Tandemなどデバイス更新が集中。<br/>
+06. AI・国内研究：低血糖予測、RCT、PREP-T1D、細胞治療<br/>
+    Cedars-Sinaiの院内低血糖24時間予測、Dexcom G7 RCT、PREP-T1D、徳島大学病院の細胞治療が研究面の中心。<br/>
+07. 予防・PHR・シンクヘルス：4か月沈黙とAI-DPP設計<br/>
+    シンクヘルス本体プレスは4か月連続沈黙。周辺ではPHR、GLP-1統合、保険者向けAI-DPP設計を継続監視。<br/>
+08. 研究・実装への持ち帰り：次回は四半期点検<br/>
+    LLM SaMD、CGM滴定統合、国内優先審査、AID安全性、国内研究フェーズを研究設計へ落とし込む。<br/>
+<br/>
+主なキーワード：UpDoc、LLM SaMD、Dexcom Smart Basal、CGM、基礎インスリン滴定、革新的SaMD優先審査、IDATEN、リフトンD、Omnipod、AID、Dexcom G7、Libre Duo、PREP-T1D、AI-DPP、GLP-1統合、シンクヘルス。]]></description>
+  </item>
+  <item>
+    <title>2026-06-20 回</title>
+    <guid isPermaLink="false">dxweekly-2026-06-20</guid>
+    <pubDate>Sun, 21 Jun 2026 03:25:21 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-06-20_dialogue_full.mp3" length="27011073" type="audio/mpeg"/>
+    <description><![CDATA[2026-06-20 医療DX朝ブリーフィング 会話形式音声 章目次<br/>
+<br/>
+全体要約：2026年6月20日回は、国内DTx・SaMD規制、Medcle販売開始、CGM/AIDの更新、日本人1型糖尿病データ、予防PHR・シンクヘルス周辺を中心に整理。最大30分以内に収めるため、耳鳴アプリ・睡眠障害標榜・AI/LLMの詳細補足は関連章内の要点に統合。<br/>
+注：音声ではPMID/DOIなどの識別番号は読み上げ対象外。企業発表段階、規制・安全性情報、学会/コンセンサス、査読論文を区別。<br/>
+<br/>
+01. 今週の全体像：国内DTxと規制の6月施行ラッシュ<br/>
+    国内SaMD実装、CGM/AID更新、日本人1型糖尿病データまでを俯瞰。<br/>
+02. PMDA SaMDコアガイダンス改訂：AI変更管理と市販後RWD<br/>
+    AI/ML変更管理、secure by design、市販後リアルワールドデータを整理。<br/>
+03. サスメドMedcle販売開始：不眠障害DTxの実装フェーズ<br/>
+    Medcleの販売開始から、糖尿病アプリの承認後実装、GLP-1統合の具体像を説明。<br/>
+05. Dexcom Stelo小児クリアランスとG8予告<br/>
+    OTC CGM小児拡大、G8予告、G6世代交代の臨床的意味を整理。<br/>
+06. Omnipod 5とAID安全性：Libre連携とEarly Alert<br/>
+    Libre 3 Plus連携とインスリン送達不全リスクを、AID安全教育の観点から解説。<br/>
+07. JDS 1型糖尿病全国調査：日本人データの重み<br/>
+    DKA、重症低血糖、無自覚低血糖を日本人データとして位置づけ。<br/>
+08. 予防・PHR・シンクヘルス周辺：沈黙の意味も追う<br/>
+    シンクヘルス周辺、PHR、AI-DPP、GLP-1統合、保険者向け介入を整理。<br/>
+<br/>
+主なキーワード：PMDA SaMDコアガイダンス、AI/ML変更管理、市販後RWD、Medcle、DTx、CGM、AID、Dexcom Stelo、Omnipod 5、JDS 1型糖尿病全国調査、GLP-1統合、PHR、AI-DPP、シンクヘルス周辺。]]></description>
+  </item>
+  <item>
+    <title>2026-06-13 回</title>
+    <guid isPermaLink="false">dxweekly-2026-06-13</guid>
+    <pubDate>Sun, 14 Jun 2026 03:11:52 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-06-13_dialogue_full.mp3" length="10039148" type="audio/mpeg"/>
+    <description><![CDATA[2026-06-13 医療DX朝ブリーフィング 音声目次<br/>
+<br/>
+形式: 2人会話形式<br/>
+方針: PMID/DOIは音声では読み上げない。企業発表・学会発表・査読論文・規制/保険実装の違いを区別する。<br/>
+<br/>
+01. 結論：国内SaMD実装と欧米CGM・AID規制の週<br/>
+   累計143件。規制系6件、新規9件。国内SaMD実装と欧米CGM/AID適応拡大が同時進行。<br/>
+02. 国内SaMD：ENDEAVORRIDEとリフトンD<br/>
+   小児ADHD治療補助SaMD、残存うつ症状向け評価療養、保険・評価期間の読み方。<br/>
+03. PHR実装：WelbyマイカルテとMeDaCa、シンクヘルス周辺<br/>
+   PHR、家族代理記録、医療データ連携、シンクヘルス沈黙継続の意味。<br/>
+04. 規制横断：PMDA、eCTD、RWD<br/>
+   SaMD、リアルワールドデータ、電子申請、ソフトウェア更新管理。<br/>
+05. CGM：Abbott Libre Duoとケトン同時測定<br/>
+   グルコース＋ケトン同時CGM、DKA予防、シックデイ教育。<br/>
+06. AID：Tandem Control-IQ+とInsulet Omnipod 6<br/>
+   2型糖尿病、妊娠、TIR、低血糖、DKA、複合エンドポイントの分解。<br/>
+07. アプリ統合：Senseonics Eversense 365とWelldoc BlueStar<br/>
+   1年型埋め込みCGMと糖尿病管理アプリ統合、データから行動へ。<br/>
+08. ガイドライン・院内AID・GLP-1時代の設計<br/>
+   ADA 2026、院内AID、SGLT2阻害薬、GLP-1/チルゼパチドとアプリ統合。<br/>
+09. 研究・実装への示唆<br/>
+   薬事・保険・RWD・CGM/AID/PHR統合を研究設計に反映する。]]></description>
+  </item>
+  <item>
+    <title>2026-06-06 回</title>
+    <guid isPermaLink="false">dxweekly-2026-06-06</guid>
+    <pubDate>Mon, 08 Jun 2026 08:58:05 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-06-06_dialogue_full.mp3" length="9081260" type="audio/mpeg"/>
+    <description><![CDATA[2026-06-06 医療DX朝ブリーフィング 音声目次<br/>
+<br/>
+形式: 2人会話形式<br/>
+方針: PMID/DOIは音声では読み上げない。企業発表・学会発表・査読論文・規制/保険実装の違いを区別する。<br/>
+<br/>
+01. 結論：ADA 2026週の共通テーマ<br/>
+   累計132件、新規11件、追従5件。細胞療法、埋込CGM、統合AID、国内実装が同時進行。<br/>
+02. 国内実装：Medcle、PMDA、WelbyとMeDaCa<br/>
+   Medcle発売、PMDA SaMD×RWD、PHR連携の実装フェーズ。<br/>
+03. Vertex zimislecel：細胞療法と1型糖尿病の転換点<br/>
+   ADA 2026の12か月データ、インスリン非依存、TIR、低血糖、長期課題。<br/>
+04. 埋め込み型CGMと統合AID：Eversense 365とtwiist<br/>
+   1年型CGM、closed loop、GMI、TIR、低血糖時間。<br/>
+05. Dexcom、Diabeloop、AndroidAPS：AIDエコシステムの広がり<br/>
+   全糖尿病CGM、twiist+DBLG2、オープンソースAID。<br/>
+06. Novo NordiskとGLP-1時代：薬剤とデジタル介入<br/>
+   CagriSema、zenagamtide、薬剤とアプリの統合、蛋白摂取、筋肉量、悪心、継続、リバウンド。<br/>
+07. シンクヘルス周辺と国内PHR競争<br/>
+   シンクヘルス沈黙継続、Welby×MeDaCa、PHR・保険者・医療者ワークフロー。<br/>
+08. 研究・実装への示唆<br/>
+   複合エンドポイント、1型先進治療、2型CGM、GLP-1時代の研究設計。]]></description>
+  </item>
+  <item>
+    <title>2026-05-30 回</title>
+    <guid isPermaLink="false">dxweekly-2026-05-30</guid>
+    <pubDate>Sun, 31 May 2026 03:16:11 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-05-30_dialogue_full.mp3" length="12586796" type="audio/mpeg"/>
+    <description><![CDATA[2026-05-30 医療DX朝ブリーフィング 音声目次<br/>
+<br/>
+形式: 2人会話形式<br/>
+想定: 通勤中に聞ける詳しめ版<br/>
+方針: PMID/DOIは音声では読み上げない。企業発表・学会発表・査読論文の違いを区別する。<br/>
+<br/>
+01. 結論：今週の共通テーマ<br/>
+   CGMとAIDが診療標準・政策・実装へ進む週。累計121件、新規10件、続報2件。<br/>
+02. 国内動向：JDSとAID適正使用指針<br/>
+   AIDを安全に広げるための施設・医療者・患者教育の標準化。<br/>
+03. 国内動向：糖尿病サブタイプ分類アプリと急性合併症調査<br/>
+   層別化、ヘテロな治療効果、DKA・重症低血糖予防への接続。<br/>
+04. Medcleと治療用アプリの保険実装<br/>
+   不眠障害DTxの保険収載を、糖尿病SaMDの制度設計の前例として読む。<br/>
+05. CGM政策化：2型糖尿病への広がり<br/>
+   イタリアT2D CGMガイドライン、非インスリンT2Dへの拡張。<br/>
+06. プライマリケアCGMと実装研究<br/>
+   4 RCT・566名メタ解析、HbA1c改善と多職種実装。<br/>
+07. AID・ポンプ：MiniMed、Omnipod、Eversense統合<br/>
+   T2D適応拡大、センサー選択肢、埋込型CGMとのAID統合。<br/>
+08. GLP-1時代のデジタル介入<br/>
+   薬剤、食事量、蛋白摂取、筋肉量、悪心、服薬継続、体重リバウンド、コーチ介入。<br/>
+09. 予防アプリ介入メタ解析<br/>
+   体重・BMI・HbA1cは小幅改善、長期効果・公平性・発症抑制は未確立。<br/>
+10. AI・データ：CGM TIRと代謝リスク、デジタルツイン<br/>
+   非糖尿病CGM指標、RCTから実臨床への外挿。<br/>
+11. 国内研究フェーズと次回監視ポイント<br/>
+   JDS指針本文、ADA 2026、Medcle発売後、シンクヘルス発信、AndroidAPS。<br/>
+12. まとめ：研究と実装への変換<br/>
+   CGM、AID、アプリ、薬剤、医療者介入、保険制度を統合して考える。]]></description>
+  </item>
+  <item>
+    <title>2026-05-23 回</title>
+    <guid isPermaLink="false">dxweekly-2026-05-23</guid>
+    <pubDate>Sun, 24 May 2026 03:17:29 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-05-23_dialogue_full.mp3" length="12331340" type="audio/mpeg"/>
+    <description><![CDATA[医療DX朝ブリーフィング 2026年5月23日版 会話形式音声 目次<br/>
+<br/>
+01 今週の結論と累計109件の全体像<br/>
+02 Medcle保険収載了承、PMDA更新、gastroAI承認<br/>
+03 日本糖尿病学会、PHR、多職種チーム医療、標準診療マニュアル2026<br/>
+04 Welby×TIS、Walmart×Twin Health、ADA SoC 2026、薬剤とアプリ統合<br/>
+05 Senseonics決算、Eversense 365、twiist、Diabeloop連携<br/>
+06 Tandem Mobi是正措置、Vertex Zimislecel申請前倒し<br/>
+07 AI-DPP、複合エンドポイント、国内研究フェーズ<br/>
+08 DiaCare_SaMD、SyncHealth_DM_Study、次回監視ポイント<br/>
+<br/>
+音声方針：会話形式、最大30分、PMID/DOI読み上げなし。SaMD、PHR、CGM、AIDなどは初出時に日本語補足。複合エンドポイントや薬剤・アプリ統合の具体像は省略せず説明。]]></description>
+  </item>
+</channel>
+</rss>
