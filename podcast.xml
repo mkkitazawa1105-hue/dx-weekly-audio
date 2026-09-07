@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
   <description>医療DX・糖尿病デジタルヘルス領域の週次ニュース解説（自動生成による対話形式音声）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 02 Sep 2026 09:02:44 +0900</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 05:06:22 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png</url>
@@ -19,6 +19,47 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Health &amp; Fitness"/>
+  <item>
+    <title>Run #20（2026-09-06）</title>
+    <guid isPermaLink="false">dxweekly-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-09-06_dialogue_full.mp3" length="9495692" type="audio/mpeg"/>
+    <itunes:episode>20</itunes:episode>
+    <itunes:subtitle>今週の主役はGoogleリサーチが8月26日に公表したGlucoFM</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026年9月6日号 音声版 目次<br/>
+Run #20 / 全体尺 約13分11秒 / 全6章 / dialogue形式<br/>
+<br/>
+【全体要約】<br/>
+今週の主役はGoogleリサーチが8月26日に公表したGlucoFM。CGM専用のデュアルストリーム型自己教師あり基盤モデルで、477人・109,066時間のラベルなしCGMデータで事前学習。糖尿病リスクなど7タスクの平均PR-AUCが58.8、食後2時間の血糖予測平均絶対誤差21.88 mg/dL、パラメータ数わずか0.72M、コード公開予定。国内では日本糖尿病学会が9月1日に「災害時糖尿病診療マニュアルのエッセンス」を公開。MedtronicのMiniMed 780G+Simplera Sync/Instinct米欧展開、Sinocare iCan i6のCE-MDR取得と2歳からの使用可、iCan Coach Level 5知能ガイダンス化などデバイス側も動き。塩野義×サスメドのMedcle販売提携終了は続報段階で理由非公表。シンクヘルスは21か月超の沈黙が継続。<br/>
+<br/>
+【方針】<br/>
+- 会話形式（Speaker A/B: charon/sulafat）<br/>
+- 15〜30分の可変尺のうち、規制系新規が薄い週として下限に近い13分尺<br/>
+- PMID/DOIは読み上げ除外、聞き取りにくい略語は日本語パラフレーズ併記<br/>
+- 一次ソース優先、日付ガード適用、状態遷移明示<br/>
+<br/>
+【章目次】<br/>
+第1章: GlucoFM登場 — CGM専用デュアルストリーム基盤モデル (約2分)<br/>
+第2章: GlucoFMの評価結果 — 7タスクPR-AUC 58.8、食後2h MAE 21.88 mg/dL (約2分29秒)<br/>
+第3章: 研究者向け実務含意 — 日本人CGMコホートへの応用ライン (約2分32秒)<br/>
+第4章: 国内規制の動き — 日本糖尿病学会災害時マニュアル、PMDA、中医協、Medcle続報 (約2分21秒)<br/>
+第5章: CGM・AIDデバイス — MiniMed 780G展開、Sinocare iCan i6、Abbott Libre Duo続報、シンクヘルスdormant (約1分53秒)<br/>
+第6章: 周辺トピックと今週のまとめ — グッピー補助、ESC 2026、CSV累計400件、次回Run #21ローテ (約1分54秒)<br/>
+<br/>
+【主要事実（一次ソース裏取り済）】<br/>
+- GlucoFM公表 (Google Research公式ブログ、arXiv:2605.30865v1)<br/>
+- 日本糖尿病学会 災害時糖尿病診療マニュアルのエッセンス公開 2026-09-01<br/>
+- Medtronic MiniMed 780G+Simplera Sync/Instinct 米欧展開 (Investor update 2026-09-01)<br/>
+- Sinocare iCan i6 CE-MDR取得 (2026-08-20時点で告知)<br/>
+- 塩野義×サスメド Medcle販売提携終了 続報 (理由非公表)<br/>
+- シンクヘルス公式プレス最新 2024-12-17 (21か月超沈黙継続)<br/>
+<br/>
+【生成情報】<br/>
+- 生成日時: 2026-09-06 JST<br/>
+- TTS: gemini_2_5_pro_tts (Speaker A: charon / Speaker B: sulafat)<br/>
+- 結合エンコード: libmp3lame 96k / 24000 Hz / mono<br/>
+- 目標尺: 20分 (実尺 13分11秒 = 薄い週のため下限に近づけた)]]></description>
+  </item>
   <item>
     <title>Run #19（2026-08-30）</title>
     <guid isPermaLink="false">dxweekly-2026-08-30</guid>
