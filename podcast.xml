@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
   <description>医療DX・糖尿病デジタルヘルス領域の週次ニュース解説（自動生成による対話形式音声）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Tue, 08 Sep 2026 05:06:22 +0900</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 16:48:00 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png</url>
@@ -19,6 +19,172 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Health &amp; Fitness"/>
+  <item>
+    <title>Run #26（2026-10-18）</title>
+    <guid isPermaLink="false">dxweekly-2026-10-18</guid>
+    <pubDate>Sun, 18 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-10-18_dialogue_full.mp3" length="7405676" type="audio/mpeg"/>
+    <itunes:episode>26</itunes:episode>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-10-18（Run #26） 音声インデックス<br/>
+全体要約：国内インスリン供給（ノボ7製品販売中止予定・リリー6製品限定出荷）が最大テーマ。twiist AIDの2型FDAクリア、MiniMed分離完了、東北大の膵がん研究。<br/>
+方針：会話形式、情報量に合わせた可変尺（水増しなし）<br/>
+話者：charon（男性）／sulafat（女性）<br/>
+<br/>
+第1章 00:00 オープニングと今週の結論（1分02秒）<br/>
+第2章 01:02 ノボ インスリン7製品の販売中止予定（1分15秒）<br/>
+第3章 02:18 リリー インスリン6製品の限定出荷（1分21秒）<br/>
+第4章 03:39 twiist 2型FDAクリアとMODI・Biolinqの訂正（1分16秒）<br/>
+第5章 04:56 MiniMed分離完了とDexcom G7 15Day（0分58秒）<br/>
+第6章 05:54 PMDA・中医協・EASD・PHR・シンクヘルス（1分38秒）<br/>
+第7章 07:33 国内研究：東北大・JIHS 膵がん全国調査ほか（1分20秒）<br/>
+第8章 08:53 研究への示唆とまとめ（1分23秒）<br/>
+<br/>
+合計：10分17秒（8章）<br/>
+注記：情報量に合わせた尺で、15分の目安を下回っています（水増しなし）。]]></description>
+  </item>
+  <item>
+    <title>Run #25（2026-10-11）</title>
+    <guid isPermaLink="false">dxweekly-2026-10-11</guid>
+    <pubDate>Sun, 11 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-10-11_dialogue_full.mp3" length="7936460" type="audio/mpeg"/>
+    <itunes:episode>25</itunes:episode>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-10-11（Run #25） 音声インデックス<br/>
+話者：charon（男性）／sulafat（女性）<br/>
+<br/>
+第1章 00:00 オープニングと今週の結論（0分57秒）<br/>
+第2章 00:57 ADA/EASD 成人1型糖尿病コンセンサス2026（1分40秒）<br/>
+第3章 02:37 FDA：MODIとBiolinq Shine OTC（1分38秒）<br/>
+第4章 04:15 MiniMed分離・Tandemアプリリコール・Dexcom G7 15Day（1分34秒）<br/>
+第5章 05:49 国内政策：医療情報化推進方針と中医協（2分03秒）<br/>
+第6章 07:53 国内研究：岐阜大・京大と千葉大（1分41秒）<br/>
+第7章 09:34 研究への示唆とまとめ（1分26秒）<br/>
+<br/>
+合計：11分01秒（7章）<br/>
+注記：今週は情報量に合わせた尺で、15分の目安を下回っています（水増しなし）。]]></description>
+  </item>
+  <item>
+    <title>Run #24（2026-10-04）</title>
+    <guid isPermaLink="false">dxweekly-2026-10-04</guid>
+    <pubDate>Sun, 04 Oct 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-10-04_dialogue_full.mp3" length="6555788" type="audio/mpeg"/>
+    <itunes:episode>24</itunes:episode>
+    <itunes:subtitle>EASD2026の週</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 音声版 2026-10-04（Run #24）<br/>
+総尺：9分06秒／7章／会話形式（charon・sulafat）<br/>
+<br/>
+【全体要約】<br/>
+EASD2026の週。10月2日にADA/EASDの2型糖尿病管理コンセンサス2026が公開され、CGMは2型、とくにインスリン使用者で考慮、デジタル介入は多要素・双方向・個別化・6〜12か月・医療者関与で最も有効と整理された。AbbottはCGM使用と全死亡低下の関連（観察研究）を発表。MiniMed分離の株式交換オファー、Tandem Mobiの国際展開、MiniMedポンプのClass 2リコール。国内は京都大学の研究のみで、規制面の動きはなし。先週のEASD CGM GLの記載とシンクヘルス沈黙月数を訂正。<br/>
+<br/>
+【方針】<br/>
+国内規制の新規がない週のため、情報量に合わせて短めにまとめ、水増しはしない（目安15分を下回る）。PMID/DOIは読み上げない。<br/>
+<br/>
+【章目次】<br/>
+第1章 00:00 オープニング：今週の結論と先週分の訂正2点<br/>
+第2章 01:40 ADA/EASD 2型糖尿病管理コンセンサス2026（CGM・AID・デジタル介入）<br/>
+第3章 02:51 Abbott EASD発表：CGMと全死亡・急性イベント入院（観察研究の読み方）<br/>
+第4章 04:31 Libre Assist（生成AI）と網膜症AI（DIAGNOS、AEYE）<br/>
+第5章 05:40 MiniMed分離・Tandem Mobi国際展開・リコール情報・Insulet<br/>
+第6章 07:19 京都大学 1型糖尿病インスリン×自律神経、jRCT<br/>
+第7章 08:25 まとめと来週の注目点]]></description>
+  </item>
+  <item>
+    <title>Run #23（2026-09-27）</title>
+    <guid isPermaLink="false">dxweekly-2026-09-27</guid>
+    <pubDate>Sun, 27 Sep 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-09-27_dialogue_full.mp3" length="8352908" type="audio/mpeg"/>
+    <itunes:episode>23</itunes:episode>
+    <itunes:subtitle>国内でCGM（Dexcom G7 15Day 承認）とインスリンポンプ注入セット（ミニメド エクステンデッド注入セット 最大7日）の長期装着化が同じ週に進み、週1回インスリン オンスイク注も日米で承認された</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 音声版 2026-09-27（Run #23）<br/>
+総尺：11分36秒／7章／会話形式（charon・sulafat）<br/>
+<br/>
+【全体要約】<br/>
+国内でCGM（Dexcom G7 15Day 承認）とインスリンポンプ注入セット（ミニメド エクステンデッド注入セット 最大7日）の長期装着化が同じ週に進み、週1回インスリン オンスイク注も日米で承認された。中医協第657回はSaMDの選定療養を初めて承認（エンデバーライド）。糖尿病SaMDの新規収載は5回連続ゼロ。海外ではBeta Bionics MintのFDAクリアランスとEASD初の2型糖尿病CGMガイドライン。<br/>
+<br/>
+【方針】<br/>
+情報量に合わせた尺とし、水増しはしない。PMID/DOIは読み上げない。略語は日本語で言い換えを添えた。<br/>
+<br/>
+【章目次】<br/>
+第1章 00:00 オープニング：今週の結論と共通テーマ（長期装着化と償還の多様化）<br/>
+第2章 01:24 Dexcom G7 15Day CGM 国内承認（15日＋12時間、MARD 8.0%）<br/>
+第3章 03:03 ミニメド エクステンデッド注入セット発売／オンスイク注 日米承認<br/>
+第4章 04:37 中医協657：SaMD選定療養の初承認と医療機器4製品の保険適用<br/>
+第5章 05:46 Beta Bionics Mint FDAクリア・3D Intelligence申請／Modular Medical Pivot／Dexcom人事<br/>
+第6章 07:38 EASD 2型糖尿病CGMガイドライン／diabetes distress GL／GVC-Calc<br/>
+第7章 09:28 予防・PHR（Solera×Noom、自治医大×おいしい健康、シンクヘルス24か月沈黙）、jRCT、来週の注目点]]></description>
+  </item>
+  <item>
+    <title>Run #22（2026-09-20）</title>
+    <guid isPermaLink="false">dxweekly-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-09-20_dialogue_full.mp3" length="7271468" type="audio/mpeg"/>
+    <itunes:episode>22</itunes:episode>
+    <itunes:subtitle>今週最大の一報はPMDAが9月18日に「生成AIを活用したプログラム医療機器(Draft)審査ポイント」の意見募集を開始したこと</itunes:subtitle>
+    <description><![CDATA[医療DX朝ブリーフィング 2026-09-20（Run #22）音声インデックス<br/>
+================================================================<br/>
+<br/>
+【全体要約】<br/>
+今週最大の一報はPMDAが9月18日に「生成AIを活用したプログラム医療機器(Draft)審査ポイント」の意見募集を開始したこと。既存4本のDTx/術中画像/内視鏡/認知機能に続く5本目領域として、生成AI搭載SaMDが独立に審査ポイント整備の対象となった。意見送付先はsamd-ikenbosyu@pmda.go.jp。同日『プログラム医療機器の薬事開発・承認申請に関する手引き』が第五版に改訂、講習会資料も同時更新。PMDA対面助言時期は10月以降→12月以降に繰り下げ。中医協 第657回(9/16)は糖尿病SaMD明示なしで5回連続ゼロ継続。海外はDexcom Stelo追加510(k) K262472(8/11)、Ascensia CONTOUR PLUS BLUE K260545(8/27)がクリアランス。Medtronic糖尿病部門分社化はFY27Q1決算後IPO準備進行中。国内は新潟大×慧康RCTとJDS+糖尿病インフォマティクス学会 合同eラーニングの続報段階。シンクヘルス本体プレスは23か月沈黙継続。<br/>
+<br/>
+【編集方針】<br/>
+- 尺: 約10分（規制系★★★1件・新規10件で標準週相当）<br/>
+- 章数: 6章（会話形式・PMID/DOI読み上げ除外）<br/>
+- 話者: charon(男性・落ち着き)/sulafat(女性・温かみ)<br/>
+- 略語パラフレーズ: SaMD→プログラム医療機器/SaMD、DTx→デジタルセラピューティクス、IVR→対話型音声応答<br/>
+- 全体尺: 10分5秒（605.928秒）<br/>
+<br/>
+【章別目次】<br/>
+第1章 PMDA生成AI草案（5本目領域）と手引書第五版<br/>
+第2章 対面助言時期の繰り下げと中医協657回の空白<br/>
+第3章 米国510(k)クリアランス（Dexcom Stelo/Ascensia CONTOUR PLUS BLUE）とMedtronic分社化<br/>
+第4章 国内研究続報とシンクヘルス沈黙／先週からの変化と共通テーマ<br/>
+第5章 研究者向け含意（DiaCare SaMD構想・N-ISM FLI・SyncHealth DM Study）<br/>
+第6章 運用面（四半期棚卸し進捗・通知条件・OneDrive保存）<br/>
+<br/>
+生成日時: 2026-09-20 03:15 JST<br/>
+生成基盤: Perplexity Comet（gemini_2_5_pro_tts / libmp3lame 96k 24kHz mono）]]></description>
+  </item>
+  <item>
+    <title>Run #21（2026-09-13）</title>
+    <guid isPermaLink="false">dxweekly-2026-09-13</guid>
+    <pubDate>Sun, 13 Sep 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-09-13_dialogue_full.mp3" length="6468524" type="audio/mpeg"/>
+    <itunes:episode>21</itunes:episode>
+    <description><![CDATA[医療DX朝ブリーフィング 音声版 2026-09-13号（Run #21）<br/>
+<br/>
+【全体】<br/>
+尺: 約8分59秒 / 全6章 / 会話形式（男性: charon / 女性: sulafat）<br/>
+生成: 2026-09-13 02:00 JST<br/>
+編集方針: PMID・DOIは読み上げ除外、聞き取りにくい略語は日本語パラフレーズ併記<br/>
+target_audio_minutes: 15（規制系薄い週の判定、実測は情報密度に応じて短縮）<br/>
+<br/>
+【今週の要点】<br/>
+- 国内: JDS+日本糖尿病インフォマティクス学会 合同eラーニング全10講座公開（9/7）<br/>
+- 国内: 慧康生技-KY×新潟大学 CGM+AI二型糖尿病予防RCT（曾根博仁教授主導、9/1）<br/>
+- 規制: 中医協 第656回 糖尿病SaMD収載4回連続ゼロ、厚労省 医薬機審発0901第1号（インスリン注射器薬局交付通知一部改正）<br/>
+- 海外: Medtronic MiniMed FY27Q1決算（Fit 510(k)申請完了・Vivera pivotal登録完了・Instinct欧州発売）<br/>
+- 海外: Dexcom Wells Fargo Conference（Medicare T2非インスリン2027年半ば・G8開発・日本再構築）<br/>
+- 国内: 京大×衣川製作所 デジタル音叉クラスII 糖尿病神経障害医師主導臨床研究<br/>
+<br/>
+【章目次】<br/>
+Chapter 1: オープニング＋JDS+糖尿病インフォマティクス学会 合同eラーニング公開<br/>
+Chapter 2: 慧康生技-KY×新潟大学 CGM+AI二型糖尿病予防RCT（★シンクヘルス親会社日本入り）<br/>
+Chapter 3: 規制・保険（中医協・厚労省・PMDA）<br/>
+Chapter 4: Medtronic MiniMed FY27Q1（Fit・Vivera・Instinct・SmartGuard）<br/>
+Chapter 5: Dexcom Wells Fargo Conference＋京大デジタル音叉<br/>
+Chapter 6: 今週のまとめ＋研究者向け含意＋watchlist<br/>
+<br/>
+【共通テーマ】<br/>
+「エビデンス生成のインフラ整備」──規制側の承認・収載より先に、研究基盤・教育基盤が動いている構図が今週鮮明化。<br/>
+<br/>
+【先週からの変化】<br/>
+規制通知系はいずれも軽微な更新だが、日本国内で「教育（JDS eラーニング）」と「予防研究（新潟大×慧康）」の二本柱が同時始動したことが構造変化。<br/>
+<br/>
+【カバレッジ】<br/>
+- 深掘り: B/I/O/K/E + Ⅴ群（四半期棚卸し完了）<br/>
+- 速報: A/J/D/F/G/C/N/H/L/M（Fは重要決算があり実質フル取り込み）<br/>
+- 四半期棚卸し: Ⅴ群完了、次回Run #22はⅠ群、隔週フルはF/H/C/N/Jへ戻る<br/>
+- 新規10件（new 8・follow_up 2・dormant 0）、累計410件]]></description>
+  </item>
   <item>
     <title>Run #20（2026-09-06）</title>
     <guid isPermaLink="false">dxweekly-2026-09-06</guid>
