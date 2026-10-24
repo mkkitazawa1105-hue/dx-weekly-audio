@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
   <description>医療DX・糖尿病デジタルヘルス領域の週次ニュース解説（自動生成による対話形式音声）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Mon, 19 Oct 2026 16:48:00 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 02:26:54 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png</url>
@@ -19,6 +19,34 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Health &amp; Fitness"/>
+  <item>
+    <title>Run #27（2026-10-25）</title>
+    <guid isPermaLink="false">dxweekly-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:20:34 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-10-25_dialogue_full.mp3" length="10732652" type="audio/mpeg"/>
+    <itunes:episode>27</itunes:episode>
+    <description><![CDATA[医療DX朝ブリーフィング 音声版 2026-10-25（Run #27）<br/>
+<br/>
+全体要約：<br/>
+4学会による初の合同ステートメント「がん患者における糖尿病治療のコンセンサスステートメント2026」の発行が今週の国内最重要事項。ビクトーザ皮下注18mgは11月末で出荷終了、リリーのインスリン限定出荷は継続中。海外ではMiniMed FlexのFDA Class 2リコールとOmnipod Discoverの米国全土展開があった。国内研究は東海大の東アジア人1型GRS研究、神戸大の縦断TIRとSurvodutide。糖尿病SaMDの国内承認・収載はなし。<br/>
+<br/>
+方針：会話形式。情報量を優先し、水増しはしない。PMID/DOIは読み上げず、略語には日本語の言い換えを添える。<br/>
+話者：charon（男性・落ち着いた声）／sulafat（女性・温かみのある声）<br/>
+<br/>
+章一覧：<br/>
+第1章 00:00 開始（1分35秒） オープニングと今週の結論<br/>
+第2章 01:35 開始（2分09秒） 4学会 がん患者における糖尿病治療のコンセンサスステートメント2026<br/>
+第3章 03:44 開始（1分50秒） 供給：ビクトーザ出荷終了とリリー限定出荷の継続<br/>
+第4章 05:35 開始（1分55秒） 予防・保健指導：厚労省「糖尿病になる前に」2026年10月版<br/>
+第5章 07:30 開始（1分16秒） シンクヘルス：沈黙約22か月と岡山済生会のBRASH-APP<br/>
+第6章 08:47 開始（1分54秒） 海外DTxとデバイス：Omada GLP-1 Care Track、MiniMed Flexリコール<br/>
+第7章 10:41 開始（0分59秒） データ基盤：Omnipod Discover米国全土、網膜症AIの日付確認<br/>
+第8章 11:41 開始（1分54秒） 国内研究：東海大 1型GRS、神戸大 縦断TIR・Survodutide<br/>
+第9章 13:35 開始（1分18秒） 研究への示唆と来週の注目点<br/>
+<br/>
+合計：14分54秒（9章）<br/>
+注記：目標尺（15〜30分）を下回っています。今週は情報量を優先し、水増しをしていないためです。]]></description>
+  </item>
   <item>
     <title>Run #26（2026-10-18）</title>
     <guid isPermaLink="false">dxweekly-2026-10-18</guid>
