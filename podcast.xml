@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
   <description>医療DX・糖尿病デジタルヘルス領域の週次ニュース解説（自動生成による対話形式音声）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Wed, 04 Nov 2026 04:51:48 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 07:10:25 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png</url>
@@ -19,6 +19,35 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Health &amp; Fitness"/>
+  <item>
+    <title>Run #29（2026-11-08）</title>
+    <guid isPermaLink="false">dxweekly-2026-11-08</guid>
+    <pubDate>Sun, 08 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-11-08_dialogue_full.mp3" length="10344428" type="audio/mpeg"/>
+    <itunes:episode>29</itunes:episode>
+    <description><![CDATA[医療DX朝ブリーフィング 音声版 2026-11-08（Run #29）<br/>
+<br/>
+全体要約：<br/>
+今週の国内で最も重要なのは、週1回の基礎インスリン「オンスイク注」の薬価が中医協第661回（11/6）で決まったことです。1キット7,071円で、11月13日に収載される予定です。医療機器の保険適用は議題になく、糖尿病SaMDの収載はゼロが続いています。PMDAは11月2日にAI利用の基本原則を公表しました。リリーの限定出荷は3週目に入っています。国内研究では、J-DOMEの糖尿病関連腎臓病、阪大の1型CGMパターン分類、神戸大などのAHCL費用対効果の3本がそろいました。海外では、TandemとInsuletが完全閉ループの開発計画を示しています。Dexcom G7 15Dayの国内発売は2027年初めの予定と報じられています。ほかに、ザ・ファージの資金調達とシンクヘルスの沈黙継続を取り上げます。<br/>
+<br/>
+方針：会話形式です。情報量を優先し、水増しはしません。PMIDとDOIは読み上げず、略語には日本語の言い換えを添えます。<br/>
+話者：charon（男性・落ち着いた声）／sulafat（女性・温かみのある声）<br/>
+<br/>
+章一覧：<br/>
+第1章 00:00 開始（1分27秒） オープニングと今週の結論<br/>
+第2章 01:27 開始（1分36秒） オンスイク注の薬価決定とリリー限定出荷<br/>
+第3章 03:03 開始（1分51秒） 中医協第661回・PMDA AI基本原則・学会とガイドライン<br/>
+第4章 04:55 開始（1分23秒） 国内研究①：J-DOME 糖尿病関連腎臓病<br/>
+第5章 06:17 開始（0分59秒） 国内研究②：阪大 1型CGMパターン分類<br/>
+第6章 07:17 開始（1分39秒） 国内研究③：神戸大 AHCL費用対効果と京大CA8<br/>
+第7章 08:55 開始（1分26秒） ポンプ・AID：Tandem・Insulet 完全閉ループ<br/>
+第8章 10:22 開始（1分18秒） CGM：Dexcom G7 15Day 国内発売予定とCMS<br/>
+第9章 11:39 開始（1分24秒） 予防・スタートアップ：ザ・ファージ、XOLTAR、シンクヘルス、電子カルテ<br/>
+第10章 13:03 開始（1分19秒） まとめと来週の注目点<br/>
+<br/>
+合計：14分22秒（10章）<br/>
+注記：目標尺（15〜30分）をわずかに下回っています。今週は情報量を優先し、水増しをしていないためです。]]></description>
+  </item>
   <item>
     <title>Run #28（2026-11-01）</title>
     <guid isPermaLink="false">dxweekly-2026-11-01</guid>
