@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
   <description>医療DX・糖尿病デジタルヘルス領域の週次ニュース解説（自動生成による対話形式音声）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 08 Nov 2026 07:10:25 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 07:10:19 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png</url>
@@ -19,6 +19,34 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Health &amp; Fitness"/>
+  <item>
+    <title>Run #30（2026-11-15）</title>
+    <guid isPermaLink="false">dxweekly-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-11-15_dialogue_full.mp3" length="11140748" type="audio/mpeg"/>
+    <itunes:episode>30</itunes:episode>
+    <description><![CDATA[医療DX朝ブリーフィング 音声版 2026-11-15（Run #30）<br/>
+<br/>
+全体要約：<br/>
+今週の国内で最も重要なのは、週1回の基礎インスリン「オンスイク注」が11月13日に薬価収載されたことです。ただし発売日はまだ公表されていません。リリーの限定出荷は4週目に入りました。PMDAの医療機器WEB申請プラットフォーム（DWAP）は不正アクセスで止まっており、医療機器プログラムの申請書記載事例の全部改正版が11月2日から適用されています。中医協第662回に糖尿病関連はありませんでした。海外では、FDAが全GLP-1受容体作動薬にNAION（視神経の血流障害による急な視力低下）の表示を求め、Tandem Mobiのチューブレス化をクリアしました。ほかに、カナダの妊娠中AID、HuaweiのCGM、Sanaなどの1型細胞療法、順天堂大学の国内研究3本を取り上げます。<br/>
+<br/>
+方針：会話形式です。情報量を優先し、水増しはしません。PMIDとDOIは読み上げず、略語には日本語の言い換えを添えます。<br/>
+話者：charon（男性・落ち着いた声）／sulafat（女性・温かみのある声）<br/>
+<br/>
+章一覧：<br/>
+第1章 00:00 開始（1分24秒） オープニングと今週の結論<br/>
+第2章 01:24 開始（1分30秒） オンスイク注の薬価収載とリリー限定出荷<br/>
+第3章 02:54 開始（1分36秒） PMDA DWAP停止と医療機器プログラム記載事例の改正<br/>
+第4章 04:31 開始（1分29秒） 中医協第662回・学会・国内SaMDの状況<br/>
+第5章 06:00 開始（1分38秒） FDA：GLP-1受容体作動薬のNAION表示<br/>
+第6章 07:39 開始（1分38秒） ポンプ・AID：Tandem Mobiチューブレスとカナダの妊娠中AID<br/>
+第7章 09:17 開始（1分37秒） CGM・AI：Huawei Sense G1、Senseonics、Libre DUO、SmartGuide<br/>
+第8章 10:55 開始（1分28秒） 1型細胞療法：Sana、Century、米国の膵島制度<br/>
+第9章 12:24 開始（1分37秒） 国内研究：順天堂大学の3本<br/>
+第10章 14:01 開始（1分27秒） まとめと来週の注目点<br/>
+<br/>
+合計：15分28秒（10章）]]></description>
+  </item>
   <item>
     <title>Run #29（2026-11-08）</title>
     <guid isPermaLink="false">dxweekly-2026-11-08</guid>
