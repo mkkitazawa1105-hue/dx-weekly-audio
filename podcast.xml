@@ -7,7 +7,7 @@
   <link>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/</link>
   <description>医療DX・糖尿病デジタルヘルス領域の週次ニュース解説（自動生成による対話形式音声）。個人利用の限定公開フィード。</description>
   <language>ja</language>
-  <lastBuildDate>Sun, 15 Nov 2026 07:10:19 +0900</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 07:10:43 +0900</lastBuildDate>
   <atom:link href="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/podcast.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://mkkitazawa1105-hue.github.io/dx-weekly-audio/cover.png</url>
@@ -19,6 +19,34 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>Yes</itunes:block>
   <itunes:category text="Health &amp; Fitness"/>
+  <item>
+    <title>Run #31（2026-11-22）</title>
+    <guid isPermaLink="false">dxweekly-2026-11-22</guid>
+    <pubDate>Sun, 22 Nov 2026 06:00:00 +0900</pubDate>
+    <enclosure url="https://mkkitazawa1105-hue.github.io/dx-weekly-audio/audio/2026-11-22_dialogue_full.mp3" length="11181644" type="audio/mpeg"/>
+    <itunes:episode>31</itunes:episode>
+    <description><![CDATA[医療DX朝ブリーフィング 音声版 2026-11-22（Run #31）<br/>
+<br/>
+全体要約：<br/>
+今週いちばん大きいのは、FDAが11月16日にMiniMed Fitをクリアしたことです。MiniMed初のチューブレスパッチポンプで、最長7日間装着でき、米国のチューブレス自動インスリン投与ポンプは3製品になりました。Tandem MobiのAndroidアプリのクラス2リコールも掲載されています。国内では、協和キリンがオングリザの販売中止を告知し（2027年11月末出荷終了）、日本産科婦人科学会が妊娠糖尿病の妊娠中体重増加目標値を策定し、日本医療機能評価機構が週1回注射薬の投与間隔間違いについて注意を呼びかけました（医療安全情報No.240）。電子カルテ情報共有サービスの省令案はパブリックコメント中です。ほかに、糖尿病データ権利憲章、ADAとVera Healthの提携、国内研究2本を取り上げます。<br/>
+<br/>
+方針：会話形式です。情報量を優先し、水増しはしません。PMIDとDOIは読み上げず、略語には日本語の言い換えを添えます。<br/>
+話者：charon（男性・落ち着いた声）／sulafat（女性・温かみのある声）<br/>
+<br/>
+章一覧：<br/>
+第1章 00:00 開始（1分29秒） オープニングと今週の結論<br/>
+第2章 01:29 開始（1分25秒） FDA：MiniMed Fit（チューブレス7日装着）のクリアランス<br/>
+第3章 02:55 開始（1分34秒） Tandem Mobi Androidアプリのリコール<br/>
+第4章 04:29 開始（1分16秒） オングリザの販売中止<br/>
+第5章 05:45 開始（1分40秒） 日本産科婦人科学会：妊娠糖尿病の体重増加目標値<br/>
+第6章 07:24 開始（1分34秒） 医療安全情報No.240：注射薬の投与間隔間違い<br/>
+第7章 08:58 開始（1分39秒） 電子カルテ情報共有の省令案と糖尿病データ権利憲章<br/>
+第8章 10:37 開始（1分35秒） AI・海外DTx・CMS：ADA×Vera Health、Dario、Omada<br/>
+第9章 12:12 開始（1分44秒） 1型治療と国内研究2本<br/>
+第10章 13:56 開始（1分36秒） 研究への示唆、シンクヘルス、来週の注目点<br/>
+<br/>
+合計：15分32秒（10章）]]></description>
+  </item>
   <item>
     <title>Run #30（2026-11-15）</title>
     <guid isPermaLink="false">dxweekly-2026-11-15</guid>
